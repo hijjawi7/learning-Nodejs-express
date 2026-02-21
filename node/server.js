@@ -5,4 +5,4 @@ const server = http.createServer((req, res) => {
     res.end('You just built a server in node.js!');
 });
 
-server.listen(3000, () => console.log('Server is running on port http://localhost:3000'));
+server.listen(3000, () => console.log('Server is unning on port http://localhost:3000'));
