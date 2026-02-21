@@ -8,6 +8,13 @@
       "when": 1771511203186,
       "tag": "0000_whole_zeigeist",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1771671881174,
+      "tag": "0001_mysterious_kinsey_walden",
+      "breakpoints": true
     }
   ]
 }
